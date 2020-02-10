@@ -1,0 +1,28 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "bannerList": [
+      {
+        "icon": "https://m.360buyimg.com/babel/jfs/t1/66348/16/8763/123438/5d68cab0E2c707a21/c006d708fef62517.jpg!q70.jpg.webp",
+        "url": "https://www.baidu.com"
+      },
+      {
+        "icon": "https://dimg04.c-ctrip.com/images/300h0u000000j05rnD96B_C_500_280.jpg",
+        "url": "https://m.ctrip.com/webapp/vacations/tour/detail?productid=3168213&departcityid=2&salecityid=2&from=https%3A%2F%2Fm.ctrip.com%2Fhtml5%2F"
+      },
+      {
+        "icon": "http://pages.ctrip.com/hotel/201811/jdsc_640es_tab1.jpg",
+        "url": "https://m.ctrip.com/events/jiudianshangchenghuodong.html?disable_webview_cache_key=1"
+      },
+      {
+        "icon": "https://dimg03.c-ctrip.com/images/fd/tg/g1/M03/7E/19/CghzfVWw6OaACaJXABqNWv6ecpw824_C_500_280_Q90.jpg",
+        "url": "https://m.ctrip.com/webapp/vacations/tour/detail?productid=53720&departcityid=2&salecityid=2&from=https%3A%2F%2Fm.ctrip.com%2Fhtml5%2F"
+      }
+    ],
+    "localNavList": [],
+    "cateNavList": [],
+    "subNavList": [],
+    "hotShopList": []
+  }
+}
